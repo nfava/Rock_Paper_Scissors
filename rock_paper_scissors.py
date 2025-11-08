@@ -3,7 +3,6 @@ Rock Paper Scissors Game
 ------------------------
 A simple Python command-line game where the player competes against the computer.
 
-Author: Nick F.
 GitHub: https://github.com/nfava
 """
 
