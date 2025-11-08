@@ -49,8 +49,8 @@ def main() -> None:
     print("Welcome to Rock Paper Scissors!")
     while True:
         play_round()
-        again = input("\nPlay again? (y/n): ").strip().lower()
-        if again != "y":
+        again = input("\nPlay again? (yes/no): ").strip().lower()
+        if again != "yes":
             print("Thanks for playing! Goodbye.")
             break
 
